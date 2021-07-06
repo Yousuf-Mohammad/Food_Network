@@ -82,6 +82,9 @@ section{
     height: 450px;
     margin-top: 10px;
 }
+.box h3{
+    text-align: center;
+}
 
 
 .Third_sec p{
@@ -124,7 +127,4 @@ footer{
     background: #55ACEE;
     color: white;
   }
-  marquee {
-      background-color: black;
-
-  }
+  
