@@ -16,6 +16,10 @@ p{
     font-weight: 700;
     font-size: large;
 }
+span{
+    color: rgb(241, 176, 55);
+}
+
 .flexible{
     display: flex;
 }
@@ -26,9 +30,8 @@ p{
 .half img{
     width: 80%;
 }
-span{
-    color: rgb(241, 176, 55);
-}
+
+
 .button{
     text-decoration: none;
     background-image: linear-gradient(orange,rgb(172, 34, 34));
